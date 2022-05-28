@@ -1,0 +1,2 @@
+# Hrishank-s-Engage-Project-Facial-Recognition
+Hrishank developed this project in order to submit it with the Microsoft Engage Program 22. Intern Engage is a program for engineering students across India graduating in 2024. It is designed to provide a platform for engineering students to accelerate their growth and foster industry-relevant skills through mentorship, coding challenges, workshops and networking opportunities.
